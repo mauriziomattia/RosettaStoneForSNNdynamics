@@ -1,5 +1,5 @@
 # RosettaStoneForSNNdynamics
-Here you can find the Mathematics notebooks used to create the Figures included in the paper
+Here you can find the Mathematica notebooks used to create the Figures included in the paper
 
 "A ‘Rosetta stone’ for the population dynamics of spiking neuron networks"
 
